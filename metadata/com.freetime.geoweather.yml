@@ -11,7 +11,7 @@ SourceCode: https://github.com/FreetimeMaker/GeoWeather
 IssueTracker: https://github.com/FreetimeMaker/GeoWeather/issues
 Translation: https://translate.codeberg.org/projects/geoweather/geoweather/
 Changelog: https://github.com/FreetimeMaker/GeoWeather/releases
-Donate: https://free-time.me/don
+Donate: https://donation.free-time.me/
 Bitcoin: 1DsCAVrzvGokrzXpe6YR33QuTo5EppiKRE
 Litecoin: LU2ERRXKTeKnzpuieQcpsBteViEY7ff5Wg
 
@@ -22,7 +22,7 @@ Repo: https://github.com/FreetimeMaker/GeoWeather.git
 Binaries: 
   https://github.com/FreetimeMaker/GeoWeather/releases/download/v%v/GeoWeather-v%v.apk
 
-Builds:
+Builds: []
 
 AllowedAPKSigningKeys: e7370a3e2d3e5baa7124bea7fff3e2955e80c68f5c07ef0c8b9137e76e86e283
 
